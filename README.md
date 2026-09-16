@@ -100,6 +100,33 @@ The project focuses on recreating the Airbnb property detail experience with reu
 
 ---
 
+## Some AI prompts Used in At the Time of Development
+
+Prompt 1:
+Analyze the Airbnb reference page and identify all
+visible sections and interactions.
+
+Prompt 2:
+Create the desktop listing page structure using Next.js.
+
+Prompt 3:
+Implement the image gallery interaction.
+
+Prompt 4:
+Implement the full-screen photo tour.
+
+Prompt 5:
+Implement lightbox with keyboard navigation.
+
+Prompt 6:
+Compare the implementation against the reference
+and identify visual mismatches.
+
+Prompt 7:
+Fix spacing, typography and responsive behavior
+
+---
+
 ## Project Structure
 
 ```text
@@ -147,29 +174,3 @@ playpower_airbnb_clone/
 ├── package.json
 └── README.md
 
----
-
-## Some AI prompts Used in At the Time of Development
-
-Prompt 1:
-Analyze the Airbnb reference page and identify all
-visible sections and interactions.
-
-Prompt 2:
-Create the desktop listing page structure using Next.js.
-
-Prompt 3:
-Implement the image gallery interaction.
-
-Prompt 4:
-Implement the full-screen photo tour.
-
-Prompt 5:
-Implement lightbox with keyboard navigation.
-
-Prompt 6:
-Compare the implementation against the reference
-and identify visual mismatches.
-
-Prompt 7:
-Fix spacing, typography and responsive behavior
