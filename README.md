@@ -1,4 +1,4 @@
-# Airbnb Clone – Playpower Labs Assignment
+# Airbnb Clone
 
 A frontend implementation of an Airbnb-style property listing page built using Next.js and React.
 
